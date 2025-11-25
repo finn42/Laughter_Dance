@@ -1,0 +1,13 @@
+"#file:///F:/HYBRID Dance DATA for processing/Video/SEGMENTED/01LoLaSidebySide/LoLa_SidebySide_Rehearsal_Panasonic_25fps.mp4 -- offset: 0, duration: 00:42:25.719 / 2545.719 / 2545719, ms per sample: 40.0",,,,,,,,,,
+Begin Time - hh:mm:ss.ms,Begin Time - ss.msec,Begin Time - PAL,End Time - hh:mm:ss.ms,End Time - ss.msec,End Time - PAL,Duration - hh:mm:ss.ms,Duration - ss.msec,Duration - PAL,Segmentation,Seg_code
+00:00:04.900,4.9,00:00:04:22,00:17:00.200,1020.2,00:17:00:05,00:16:55.300,1015.3,00:16:55:07,"Searching for the Material , robots [a182]",S_robots
+00:17:02.000,1022,00:17:02:00,00:19:32.000,1172.0,00:19:32:00,00:02:30.000,150.0,00:02:30:00,"Searching for the Material, dissolving robots [a183]",S_diss
+00:19:32.000,1172,00:19:32:00,00:20:58.000,1258.0,00:20:58:00,00:01:26.000,86.0,00:01:26:00,"Searching for the Material, up and down [a184]",S_updown
+00:20:58.000,1258,00:20:58:00,00:21:23.000,1283.0,00:21:23:00,00:00:25.000,25.0,00:00:25:00,Marker loss [a185],I
+00:21:23.000,1283,00:21:23:00,00:22:44.000,1364.0,00:22:44:00,00:01:21.000,81.0,00:01:21:00,"Searching for the Material, corners [a186]",S_corners
+00:22:44.000,1364,00:22:44:00,00:28:04.000,1684.0,00:28:04:00,00:05:20.000,320.0,00:05:20:00,"Searching for the Material, Holding hands [a187]",S_hands
+00:28:05.000,1685,00:28:05:00,00:29:44.000,1784.0,00:29:44:00,00:01:39.000,99.0,00:01:39:00,"Searching for the Material, controling the head [a188]",S_head
+00:29:44.000,1784,00:29:44:00,00:30:24.000,1824.0,00:30:24:00,00:00:40.000,40.0,00:00:40:00,"Pause, laughter, verbal [a189]",Pause
+00:30:27.000,1827,00:30:27:00,00:33:40.000,2020.0,00:33:40:00,00:03:13.000,193.0,00:03:13:00,"Searching for the Material, floor,rolling ball [a190]",S_floor
+00:33:41.000,2021,00:33:41:00,00:37:43.000,2263.0,00:37:43:00,00:04:02.000,242.0,00:04:02:00,"Searching for the Material, rope [a191]",S_rope
+00:37:44.000,2264.0,00:37:44:00,00:42:16.000,2536.0,00:42:16:00,00:04:32.000,272.0,00:04:32:00,Verbal negotiation to set the material [a192],V

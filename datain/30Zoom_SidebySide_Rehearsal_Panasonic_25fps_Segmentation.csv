@@ -1,0 +1,28 @@
+"#file:///F:/HYBRID Dance DATA for processing/Video/SEGMENTED/30ZoomSidebySide/30Zoom_SidebySide_Rehearsal_Panasonic_25fps.mp4 -- offset: 0, duration: 00:49:20.280 / 2960.280 / 2960280, ms per sample: 40.0",,,,,,,,,,
+Begin Time - hh:mm:ss.ms,Begin Time - ss.msec,Begin Time - PAL,End Time - hh:mm:ss.ms,End Time - ss.msec,End Time - PAL,Duration - hh:mm:ss.ms,Duration - ss.msec,Duration - PAL,Segmantation,Seg_code
+00:00:10.800,10.8,00:00:10:20,00:02:41.300,161.3,00:02:41:07,00:02:30.500,150.5,00:02:30:12,Searching for the Material  [a158],S
+00:02:42.000,162.0,00:02:42:00,00:04:12.000,252.0,00:04:12:00,00:01:30.000,90.0,00:01:30:00,Searching for the material ballet [a159],S_ballet
+00:04:13.000,253.0,00:04:13:00,00:04:43.000,283.0,00:04:43:00,00:00:30.000,30.0,00:00:30:00,"Searching for the Material, fix point hand [a160]",S_point
+00:04:44.000,284.0,00:04:44:00,00:06:36.100,396.1,00:06:36:02,00:01:52.100,112.1,00:01:52:02,"Searching for the Material, action-reaction [a161]",S_reaction
+00:06:36.300,396.3,00:06:36:07,00:08:16.100,496.1,00:08:16:02,00:01:39.800,99.8,00:01:39:20,Searching for the Material floor [a162],S_floor
+00:08:16.300,496.3,00:08:16:07,00:09:04.400,544.4,00:09:04:10,00:00:48.100,48.1,00:00:48:02,"Searching for the Material, hands are on surface [a163]",S_hands
+00:09:04.600,544.6,00:09:04:15,00:09:13.400,553.4,00:09:13:10,00:00:08.800,8.8,00:00:08:20,"Searching for the Material, sound [a164]",S_sound
+00:09:13.400,553.4,00:09:13:10,00:10:03.300,603.3,00:10:03:07,00:00:49.900,49.9,00:00:49:22,"Searching for the Material, spot chasing in the space, Ole on the floor [a165]",S_chase
+00:10:03.500,603.5,00:10:03:12,00:10:26.400,626.4,00:10:26:10,00:00:22.900,22.9,00:00:22:22,"Searching for the Material, body shapes [a166]",S_body
+00:10:28.000,628.0,00:10:28:00,00:12:21.000,741.0,00:12:21:00,00:01:53.000,113.0,00:01:53:00,"Searching for the Material, claps [a167]",S_claps
+00:12:21.400,741.4,00:12:21:10,00:13:07.400,787.4,00:13:07:10,00:00:46.000,46.0,00:00:46:00,"Searching for the Material, still shapes [a168]",S_still
+00:13:07.800,787.8,00:13:07:20,00:13:57.200,837.2,00:13:57:05,00:00:49.400,49.4,00:00:49:10,"Searching for the Material, imitation [a169]",S_imitation
+00:13:57.400,837.4,00:13:57:10,00:14:16.000,856.0,00:14:16:00,00:00:18.600,18.6,00:00:18:15,"Searching for the Material,Arm lines [a170]",S_arms
+00:14:16.400,856.4,00:14:16:10,00:14:28.000,868.0,00:14:28:00,00:00:11.600,11.6,00:00:11:15,Searching for the Material [a171],S
+00:14:28.400,868.4,00:14:28:10,00:16:20.200,980.2,00:16:20:05,00:01:51.800,111.8,00:01:51:20,"Searching for the Material, on the floor, cigarete [a172]",S_floor
+00:16:20.800,980.8,00:16:20:20,00:18:16.000,1096.0,00:18:16:00,00:01:55.200,115.2,00:01:55:05,"Searching for the Material, breath [a173]",S_breath
+00:18:20.000,1100.0,00:18:20:00,00:20:39.000,1239.0,00:20:39:00,00:02:19.000,139.0,00:02:19:00,"Searching for the Material, eyes closed [a174]",S_eyes
+00:20:41.000,1241.0,00:20:41:00,00:25:30.000,1530.0,00:25:30:00,00:04:49.000,289.0,00:04:49:00,"Searching for the Material, calling with sound [a175]",S_call
+00:25:33.000,1533.0,00:25:33:00,00:26:10.000,1570.0,00:26:10:00,00:00:37.000,37.0,00:00:37:00,"Pause,Verbal exchange [a176]",Pause
+00:26:12.000,1572.0,00:26:12:00,00:29:54.000,1794.0,00:29:54:00,00:03:42.000,222.0,00:03:42:00,"Searching for the Material, playing with the camera  [a177]",S_camera
+00:29:57.000,1797.0,00:29:57:00,00:32:18.000,1938.0,00:32:18:00,00:02:21.000,141.0,00:02:21:00,Searching for the Material [a178],S
+00:32:20.000,1940.0,00:32:20:00,00:32:40.000,1960.0,00:32:40:00,00:00:20.000,20.0,00:00:20:00,Reminder of time [a179],I
+00:32:41.000,1961.0,00:32:41:00,00:35:30.000,2130.0,00:35:30:00,00:02:49.000,169.0,00:02:49:00,Verbal negotiation to set the materials [a180],V
+00:35:30.000,2130.0,00:35:30:00,00:43:18.000,2598.0,00:43:18:00,00:07:48.000,468.0,00:07:48:00,"Repeating from the top, rehearsing the set materials [a181]",R
+00:43:18.250,2598.25,00:43:18:06,00:44:00.250,2640.25,00:44:00:06,00:00:42.000,42.0,00:00:42:00,Reminder of the time [a182],I
+00:44:01.000,2641.0,00:44:01:00,00:49:18.000,2958.0,00:49:18:00,00:05:17.000,317.0,00:05:17:00,Verbal negotiation to set the materials [a183],V

@@ -1,0 +1,34 @@
+TIME,LABEL,Structure,Terms,Description,StartTime,EndTime,Dur,Trial_Type
+0.023219955,Clapping,A0,,,0.023219955,8.661043084,8.637823129,Applause
+8.661043084,Call to dance,V1,,,8.661043084,32.531156463,23.870113379,Verbal
+32.531156463,Task: Find partner and place,T0,,,32.531156463,92.276099773,59.74494331,Practice
+92.276099773,Instructor calls attention,V2,,,92.276099773,120.929523810,28.653424037,Verbal
+120.929523810,Demo 1: Lead circle,D1,Default hold,"LR-FL hands,  forward facing, circling in place",120.929523810,126.409433107,5.479909297,Demo
+126.409433107,Attempts,T1,,,126.409433107,151.556643991,25.147210884,Practice
+135.836734694,"Ins: Stepping 1-2, 1-2",I,,,135.836734694,,0,Instruction
+151.556643991,Demo 2: close,D2,Parade Follow,"LR-FL hands, follow paraded around lead with R arm passing overhead",151.556643991,157.524172336,5.967528345,Demo
+157.524172336,Attempts,T2,,,157.524172336,207.516734694,49.992562358,Practice
+183.971700680,Ins: Stay on the spot ,I,,,183.971700680,,0,Instruction
+207.516734694,Demo 3: change hands,D3,Shoulder-level offset hold,"LLFL LRFR hands, forward facing, circling in place",207.516734694,219.985850340,12.469115646,Demo
+219.985850340,Demo 4: overshoulder position,D4,Pancake,"LLFL LRFR hands, face-to-face, Lead in place turn then follow in place turn counterclockwise",219.985850340,228.879092971,8.893242631,Demo
+228.879092971,Attempts,T3,,,228.879092971,267.609977324,38.730884353,Practice
+267.609977324,Demo 5,D5,Telemark gangar step,"Step on ball of foot, gentle heel down on delay",267.609977324,279.870113379,12.260136055,Demo
+279.870113379,Attempts,T4,,,279.870113379,303.879546485,24.009433106,Practice
+303.879546485,Instructor Call for music,V3,,,303.879546485,332.950929705,29.071383220,Verbal
+332.950929705,Fiddle music 1,M1,,,332.950929705,385.776326531,52.825396826,Music
+385.776326531,Cheers,A1,,,385.776326531,396.852244898,11.075918367,Applause
+396.852244898,Instructor,V4,,,396.852244898,402.680453515,5.828208617,Verbal
+402.680453515,Demo 6,D6,Release spin,reverse half pancake into LRFR hands with follow spining under Lead arm clockwise,402.680453515,409.716099773,7.035646258,Demo
+409.716099773,Attempts,T5,,,409.716099773,434.491791383,24.775691610,Practice
+434.491791383,Demo 7 release,D7,Lausdans gangar,"Partners spin and turn around each other without contact, follow spins more",434.491791383,447.587845805,13.096054422,Demo
+447.587845805,Demo 8 Free,D8,Free dancing,,447.587845805,455.691609977,8.103764172,Demo
+455.691609977,Attempts,T8,,,455.691609977,464.538412698,8.846802721,Practice
+464.538412698,Instructor New partner,V5,Find new partner,,464.538412698,497.510748299,32.972335601,Verbal
+497.510748299,Instructor Scene setting for quiet steps,V6,,,497.510748299,551.172063492,53.661315193,Verbal
+551.172063492,Music 2,M2,,,551.172063492,749.795555556,198.623492064,Music
+599.469569161,Ins: Switch partners,I,,,599.469569161,,0,Instruction
+621.992925170,Ins: Shush,I,,,621.992925170,,0,Instruction
+670.127891156,Ins: Switch partners,I,,,670.127891156,,0,Instruction
+749.795555556,Cheers,A2,,,749.795555556,766.235283447,16.439727891,Applause
+766.235283447,Instructor comment,V7,,,766.235283447,773.317369615,7.082086168,Verbal
+773.317369615,Applause,A3,,,773.317369615,824.749569161,51.432199546,Applause

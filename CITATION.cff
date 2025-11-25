@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Upham"
+  given-names: "Finn"
+  orcid: "https://orcid.org/0000-0002-9948-2024"
+title: "Laughter and Dancing"
+version: 1.0.0
+doi: TBD
+date-released: 2025-11-25
+url: "https://github.com/finn42/Laughter_Dance"
